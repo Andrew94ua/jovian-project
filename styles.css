@@ -2,3 +2,7 @@
   margin: 0;
   padding: 0;
 }
+ol {
+  list-style-type: decimal;
+  margin-left: 20px;
+}
